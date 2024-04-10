@@ -1,0 +1,22 @@
+{
+  "name": "Microsoft",
+  "url": "https://www.microsoft.com/it-it/",
+  "career_page_url": "https://careers.microsoft.com/professionals/us/en/search-results?rk=l-c-engineering",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Azure",
+    "C",
+    "Linux",
+    "Kernel",
+    "C#",
+    "SAP",
+    "TypeScript"
+  ]
+}

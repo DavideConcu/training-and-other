@@ -1,0 +1,29 @@
+{
+  "name": "Engage IT Services",
+  "url": "https://www.linkedin.com/company/engage-it-services-s-r-l-",
+  "career_page_url": "https://www.linkedin.com/company/engage-it-services-s-r-l-/jobs",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    ".NET",
+    "C#",
+    "PowerShell",
+    "SQL Server",
+    "Azure",
+    "TypeScript",
+    "Angular",
+    "REST Api",
+    "RabbitMQ",
+    "Redis",
+    "Docker",
+    "Architecture",
+    "DevOps",
+    "Enterprise solutions"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Spendesk",
+  "url": "https://www.spendesk.com",
+  "career_page_url": "https://www.spendesk.com/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Intermediary"
+  ],
+  "tags": [
+    "NodeJS",
+    "TypeScript",
+    "React",
+    "Kotlin",
+    "Swift",
+    "GraphQL",
+    "AWS",
+    "Kubernetes",
+    "PostgreSQL",
+    "Terraform",
+    "Redis",
+    "Kafka"
+  ]
+}

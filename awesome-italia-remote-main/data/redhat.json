@@ -1,0 +1,23 @@
+{
+  "name": "Red Hat",
+  "url": "https://www.redhat.com/it/global/italia",
+  "career_page_url": "https://careers-redhat.icims.com/jobs/search?ss=1\u0026searchLocation=13270--Remote",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "AWS",
+    "Java",
+    "Python",
+    "Go",
+    "C",
+    "Linux",
+    "Kernel",
+    "OpenShift"
+  ]
+}

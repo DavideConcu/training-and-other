@@ -1,0 +1,30 @@
+{
+  "name": "EDB",
+  "url": "https://www.enterprisedb.com/",
+  "career_page_url": "https://www.enterprisedb.com/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "AWS",
+    "Ansible",
+    "Azure",
+    "C",
+    "CI/CD",
+    "DevOps",
+    "Go",
+    "Kubernetes",
+    "Kubernetes operators",
+    "Open Source",
+    "OpenShift",
+    "Postgres",
+    "PostgreSQL",
+    "Python",
+    "Terraform"
+  ]
+}

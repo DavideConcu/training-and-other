@@ -1,0 +1,26 @@
+{
+    "name": "ELEVA",
+    "url": "https://eleva.it/",
+    "career_page_url": "https://eleva.it/team/",
+    "type": "Consulting",
+    "categories": [
+        "cloud_software"
+    ],
+    "remote_policy": "Full",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "tags": [
+        "Cloud Native",
+        "AWS",
+        "Serverless",
+        "Node.js",
+        "IaC",
+        "React",
+        "React Native",
+        "Javascript",
+        "PHP",
+        "Symfony",
+        "UX/UI"
+    ]
+}

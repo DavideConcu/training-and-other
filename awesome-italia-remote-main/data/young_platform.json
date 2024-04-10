@@ -1,0 +1,24 @@
+{
+  "name": "Young Platform",
+  "url": "https://youngplatform.com",
+  "career_page_url": "https://www.linkedin.com/company/youngplatformcme/jobs",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Go",
+    ".NET Core 5",
+    "AWS",
+    "GCloud",
+    "Kubernetes",
+    "C#",
+    "MSSQL",
+    "PostgreSQL",
+    "MongoDB"
+  ]
+}

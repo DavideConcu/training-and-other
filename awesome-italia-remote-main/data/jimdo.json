@@ -1,0 +1,20 @@
+{
+  "name": "Jimdo",
+  "url": "https://jimdo.com/",
+  "career_page_url": "https://careers.jimdo.com/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policies": [
+    "-"
+  ],
+  "tags": [
+    "SaaS",
+    "TypeScript",
+    "React",
+    "Kotlin",
+    "AWS"
+  ]
+}

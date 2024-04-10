@@ -1,0 +1,22 @@
+{
+  "name": "Hastega",
+  "url": "https://www.hastega.it/",
+  "career_page_url": "https://www.hastega.it/careers/",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Angular",
+    "Laravel",
+    "Spring Boot",
+    "Android",
+    "iOS",
+    "AWS",
+    "GCP"
+  ]
+}

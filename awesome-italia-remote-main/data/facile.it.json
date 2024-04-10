@@ -1,0 +1,29 @@
+{
+  "name": "Facile.it",
+  "url": "https://www.facile.it/",
+  "career_page_url": "https://jobs.facile.it/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "PHP",
+    "Node.js",
+    "TypeScript",
+    "MySQL",
+    "MongoDB",
+    "RabbitMQ",
+    "Docker",
+    "Kubernetes",
+    "ELK",
+    "React",
+    "Open Source",
+    "Swift",
+    "Kotlin",
+    "fp-ts"
+  ]
+}

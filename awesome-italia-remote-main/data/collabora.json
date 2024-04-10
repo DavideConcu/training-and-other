@@ -1,0 +1,31 @@
+{
+  "name": "Collabora Ltd.",
+  "url": "https://www.collabora.com/",
+  "career_page_url": "https://www.collabora.com/careers.html",
+  "type": "Consulting",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Contract"
+  ],
+  "tags": [
+    "Vulkan",
+    "Rust",
+    "Python",
+    "Open Source",
+    "Multimedia",
+    "Mesa",
+    "Linux",
+    "Kubernetes",
+    "Kernel",
+    "Go",
+    "GStreamer",
+    "Embedded",
+    "DevOps",
+    "Debian",
+    "Continuous Integration",
+    "C/C++"
+  ]
+}

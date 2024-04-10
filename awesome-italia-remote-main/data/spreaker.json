@@ -1,0 +1,20 @@
+{
+  "name": "Spreaker",
+  "url": "https://www.spreaker.com/",
+  "career_page_url": "https://careers.spreaker.com/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "-",
+  "hiring_policies": [
+    "-"
+  ],
+  "tags": [
+    "PHP",
+    "Node.js",
+    "AWS",
+    "Kubernetes",
+    "Serverless"
+  ]
+}

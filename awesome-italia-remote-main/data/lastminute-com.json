@@ -1,0 +1,26 @@
+{
+  "name": "lastminute.com",
+  "url": "https://www.lastminute.com/",
+  "career_page_url": "https://careers.lastminute.com/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Android",
+    "AWS",
+    "iOS",
+    "Java",
+    "Kotlin",
+    "Kubernetes",
+    "Go",
+    "Python",
+    "React",
+    "React Native",
+    "TypeScript"
+  ]
+}

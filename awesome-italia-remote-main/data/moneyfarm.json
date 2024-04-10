@@ -1,0 +1,35 @@
+{
+  "name": "Moneyfarm",
+  "url": "https://www.moneyfarm.com/",
+  "career_page_url": "https://www.moneyfarm.com/it/jobs/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Android",
+    "AWS",
+    "Docker",
+    "EFK",
+    "Go",
+    "iOS",
+    "Istio",
+    "Kafka",
+    "Kong",
+    "Kotlin",
+    "Kubernetes",
+    "Prometheus",
+    "Python",
+    "RabbitMQ",
+    "React",
+    "Redis",
+    "Scala",
+    "Swift",
+    "Terraform",
+    "TypeScript"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Elastic",
+  "url": "https://www.elastic.co/",
+  "career_page_url": "https://www.elastic.co/about/careers/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Go",
+    "Cloud",
+    "Scala",
+    "OpenStack"
+  ]
+}

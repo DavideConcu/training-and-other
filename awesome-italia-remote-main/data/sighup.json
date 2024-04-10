@@ -1,0 +1,21 @@
+{
+  "name": "SIGHUP",
+  "url": "https://sighup.io/",
+  "career_page_url": "https://www.linkedin.com/company/sighup/jobs/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Go",
+    "Typescript",
+    "Python",
+    "Docker",
+    "Terraform",
+    "Kubernetes"
+  ]
+}

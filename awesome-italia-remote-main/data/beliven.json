@@ -1,0 +1,25 @@
+{
+  "name": "Beliven",
+  "url": "https://beliven.com",
+  "career_page_url": "https://careers.beliven.com",
+  "type": "B2B",
+  "categories": [
+    "cloud_software",
+    "design_ux"
+  ],
+  "remote_policy": "Hybrid",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "PHP",
+    "Node",
+    "Vue.js",
+    "React",
+    "Angular",
+    "React Native",
+    "Docker",
+    "Kubernetes",
+    "Terraform"
+  ]
+}

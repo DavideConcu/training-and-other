@@ -1,0 +1,16 @@
+{
+  "name": "Advigator",
+  "url": "https://www.advigator.com",
+  "career_page_url": "https://www.advigator.com/careers",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Ruby On Rails"
+  ]
+}

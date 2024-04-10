@@ -1,0 +1,21 @@
+{
+  "name": "TUI Musement",
+  "url": "https://www.musement.com/",
+  "career_page_url": "https://careers.tuigroup.com/jobs/",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Optional",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "AWS",
+    "PHP",
+    "Go",
+    "C#",
+    "Java",
+    "Vue.js"
+  ]
+}

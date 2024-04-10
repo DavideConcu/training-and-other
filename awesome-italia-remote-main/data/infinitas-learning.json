@@ -1,0 +1,29 @@
+{
+  "name": "InfinitasLearning",
+  "url": "https://www.infinitaslearning.com/",
+  "career_page_url": "https://careers.infinitaslearning.com/o/software-engineer",
+  "type": "Product",
+  "categories": [
+    "cloud_software"
+  ],
+  "remote_policy": "Full",
+  "hiring_policies": [
+    "Direct"
+  ],
+  "tags": [
+    "Javascript",
+    "Typescript",
+    "Node",
+    "React",
+    "MongoDB",
+    "PosgtgreSQL",
+    "Redis",
+    "GraphQL",
+    "Cloudflare",
+    "Azure",
+    "K8s",
+    "Terraform",
+    "Python",
+    "Git"
+  ]
+}
